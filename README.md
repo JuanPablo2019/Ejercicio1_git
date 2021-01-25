@@ -1,6 +1,6 @@
 # Ejercicio1_git
 Este es el primer ejercicio de ilustración de Git
-liberty statue
+Estatua de la libertad
   ^ 
             ,' \                
             L""/ 
